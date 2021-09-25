@@ -3,7 +3,7 @@
 </p>
 
 
-### Hi there 👋 **anmol1432/anmol1432** is a ✨ 
+**anmol1432/anmol1432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
