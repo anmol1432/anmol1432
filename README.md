@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... My self 😇
 - 🌱 I’m currently learning ... ⚛️ Next.js
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... React native Aws 
 - 💬 Ask me about ... Punjab
 - 📫 How to reach me: ... ig @pythoner121
 - 😄 My favorite anime : ... Naruto , Dragon 🐲 Ball Z
