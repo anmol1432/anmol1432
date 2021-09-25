@@ -1,7 +1,9 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=ecf05e47p1v853bomycn0t8jaw8hfok0z52wmp32lse0tkg9&rid=giphy.gif&ct=g" alt="Size Limit CLI" width="738">
+</p>
 
-<!--
-**anmol1432/anmol1432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋 **anmol1432/anmol1432** is a ✨ 
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... ig @pythoner121
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
--->
+
