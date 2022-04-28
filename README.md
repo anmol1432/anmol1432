@@ -2,10 +2,7 @@
   <img src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=ecf05e47p1v853bomycn0t8jaw8hfok0z52wmp32lse0tkg9&rid=giphy.gif&ct=g" alt="Size Limit CLI" width="500" height="450">
 </p>
 
-
-**anmol1432/anmol1432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**anmol1432/anmol1432** is a ✨ _special_ ✨ repository
 
 - 🔭 I’m currently working on ... My self 😇
 - 🌱 I’m currently learning ... ⚛️ Next.js
