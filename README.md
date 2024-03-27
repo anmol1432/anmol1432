@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=ecf05e47p1v853bomycn0t8jaw8hfok0z52wmp32lse0tkg9&rid=giphy.gif&ct=g" alt="Size Limit CLI" width="500" height="450">
 </p>
 
-# Anmol Buttar
+# Anmol Singh
 
 ## Introduction
 Hi there! I'm Anmol Buttar, a JavaScript developer with a passion for data structures and algorithms. I love scratching my head around solving problems efficiently. Feel free to reach out to me if you share similar interests or need assistance with JavaScript development.
