@@ -21,7 +21,7 @@ Hi there! I'm Anmol Buttar, a JavaScript developer passionate about data structu
 
 <p align="center">
 <a href="mailto:anmolbuttar143205@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anmolbuttar143205@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/anmol-singh-285a541a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anmol-singh-285a541a4-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/anmol-singh-285a541a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanmol-singh-285a541a4%2F"></a>
 </p>
 
 ### Languages and Tools:
@@ -35,7 +35,7 @@ Hi there! I'm Anmol Buttar, a JavaScript developer passionate about data structu
 
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" height="32" width="32" src="https://camo.githubusercontent.com/582429992c94328783a1509030dfd344c5845fb94be4a7b85fcf8e70b686e1b1/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f706e672f6769746875622e706e67" />
 
 <br/>
 <br/>
