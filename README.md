@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 ## Introduction
-Hi there! I'm Anmol Buttar, a JavaScript developer passionate about data structures and algorithms. I love scratching my head around solving problems efficiently. Please feel free to contact me if you have similar interests or need help with JavaScript development. And I admire characters like Tobirama Senju and Itachi Uchiha from Naruto and WhiteBeard from Onepiece_. Apart from coding, I enjoy exploring new technologies and honing my skills to become a better developer.
+Hi there! I'm Anmol Buttar, a JavaScript developer passionate about data structures and algorithms. I love scratching my head around solving problems efficiently. Please feel free to contact me if you have similar interests or need help with JavaScript development. And I also admire characters  like Tobirama Senju and Itachi Uchiha from Naruto and WhiteBeard from Onepiece_. Apart from coding, I enjoy exploring new technologies and honing my skills to become a better developer.
 
 
 - 🕸️ &nbsp; Passionate about the **Web (WWW)** and I yearn to **simplify web for everyone**.
@@ -20,10 +20,8 @@ Hi there! I'm Anmol Buttar, a JavaScript developer passionate about data structu
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:anmolbuttar143205@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lovejot.tech%40gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/anmol-singh-285a541a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lovejot%20Singh-blue?style=flat&logo=linkedin"></a>
-**Email:** anmolbuttar143205@gmail.com
-**Twitter:** [@AnmolSINGHRAND2](https://twitter.com/AnmolSINGHRAND2?s=08)
+<a href="mailto:anmolbuttar143205@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anmolbuttar143205@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/anmol-singh-285a541a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anmol-singh-285a541a4-blue?style=flat&logo=linkedin"></a>
 </p>
 
 ### Languages and Tools:
