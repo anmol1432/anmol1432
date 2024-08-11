@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 ## Introduction
-Hi there! I'm Anmol Buttar, a JavaScript developer passionate about data structures and algorithms. I love scratching my head around solving problems efficiently. Please feel free to contact me if you have similar interests or need help with JavaScript development. And I also admire characters  like Tobirama Senju and Itachi Uchiha from Naruto and WhiteBeard from Onepiece_. Apart from coding, I enjoy exploring new technologies and honing my skills to become a better developer.
+Hi there! I'm Anmol Singh, a JavaScript developer passionate about data structures and algorithms. I love scratching my head around solving problems efficiently. Please feel free to contact me if you have similar interests or need help with JavaScript development. And I also admire characters  like Tobirama Senju and Itachi Uchiha from Naruto and WhiteBeard from Onepiece_. Apart from coding, I enjoy exploring new technologies and honing my skills to become a better developer.
 
 
 - 🕸️ &nbsp; Passionate about the **Web (WWW)** and I yearn to **simplify web for everyone**.
