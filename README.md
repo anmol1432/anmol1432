@@ -19,7 +19,7 @@ Hi there! I'm Anmol Singh, a JavaScript developer passionate about data structur
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="mailto:anmolbuttar143205@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anmolbuttar143205@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/anmol-singh-285a541a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanmol-singh-285a541a4%2F"></a>
 </p>
