@@ -1,4 +1,4 @@
-<h1 align="center">Anmol Singh</h1>
+<h1 align="center">Hi there 👋, I’m Anmol Singh!</h1>
 <h3 align="center">Software Developer (4+ Years Experience)</h3>
 
 <p align="center">
@@ -86,3 +86,8 @@ Frontend Developer with 4 years of experience building scalable web applications
 - Automated repetitive tasks using Python + Selenium, generating reports and uploading them to an FTP server.
 
 ---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
+Guru Nanak Dev University, Amritsar | *2017 – 2020*
